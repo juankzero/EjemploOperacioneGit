@@ -8,5 +8,9 @@ int main()
 
 	cout << miVariable;
 
+	bool booleana = false;
+
+	cout << booleana;
+
 	return 0;
 }
