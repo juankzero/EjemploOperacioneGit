@@ -12,5 +12,7 @@ int main()
 
 	cout << booleana;
 
+	cout << booleana;
+
 	return 0;
 }
