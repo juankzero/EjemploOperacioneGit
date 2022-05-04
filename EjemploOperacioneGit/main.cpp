@@ -1,4 +1,5 @@
 #include <iostream>
+#include "miclase.h"
 
 using std::cout;
 
